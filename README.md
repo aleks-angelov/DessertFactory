@@ -2,13 +2,6 @@
 
 ### Group class project for INF 280 - Database Systems (Fall 2015)
 
-##### Team composition:
-1. Toni Dzhambazov – Leader
-2. Edor Kacerja – Designer
-3. Yana Aleksieva – Designer
-4. Aleks Angelov – Developer
-5. Gabriel Stoyanov – Developer
-
 ##### Description:
 The goal of our project is to create a database that facilitates the operation of a dessert factory. 
 
